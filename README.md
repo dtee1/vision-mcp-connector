@@ -61,15 +61,12 @@ Development is guided by the following rules:
 
 ## Repository Structure
 
-```text
-vision-mcp-connector/
-  connector-cpp/
-  mcp-server-ts/
-  extension/
-  docs/
-```
+Current tracked structure:
 
-This structure will evolve as the MVP becomes concrete.
+    vision-mcp-connector/
+      docs/
+
+Planned top-level directories (will appear as the MVP is implemented): `connector-cpp/`, `mcp-server-ts/`, and `extension/`.
 
 ## Roadmap
 
