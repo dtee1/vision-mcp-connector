@@ -1,0 +1,50 @@
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Node / TypeScript
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+.npm/
+.eslintcache
+
+# C++ / CMake
+build/
+out/
+bin/
+lib/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+compile_commands.json
+Makefile
+
+# Temporary / swap
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Runtime files
+*.pid
+*.seed
