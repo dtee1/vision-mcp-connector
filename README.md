@@ -1,5 +1,5 @@
 # vision-mcp-connector
-Local MCP connector for Claude Deskttop to discover, control, and stream from GigE Vision cameras with beginner-focused GenICam support. 
+Local MCP connector for Claude Desktop to discover, control, and stream from GigE Vision cameras with beginner-focused GenICam support. 
 
 ## Status
 Early-stage public learning project. The goal is to build this connector in a deliberate, educational way with clear architecture, disciplined commits, and minimal MVP scope.

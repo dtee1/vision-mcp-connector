@@ -32,7 +32,7 @@ This Code of Conduct applies within all project spaces and also applies when an 
 
 ## Reporting
 
-To report unacceptable behavior, contact: [ADD YOUR PROJECT EMAIL]
+To report unacceptable behavior, contact: dtals091@uottawa.ca
 
 ## Attribution
 
